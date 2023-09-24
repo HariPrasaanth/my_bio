@@ -7,10 +7,11 @@ function App() {
     <>
       {/* <MyBio /> */}
       {/* <MyBioEdit /> */}
-      <BrowserRouter basename='/my-bio'>
+      <BrowserRouter>
         <Routes>
-          <Route path="/my-bio" element={<MyBio />} />            
-          <Route path="/my-bio-edit" element={<MyBioEdit />} />          
+          <Route path="/" element={<MyBio />} />            
+          <Route path="/mybio" element={<MyBio />} />            
+          <Route path="/mybioedit" element={<MyBioEdit />} />          
         </Routes>
       </BrowserRouter>
     </>
