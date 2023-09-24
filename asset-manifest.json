@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/HariPrasaanth/my-bio/static/css/main.5e3bf947.css",
-    "main.js": "/HariPrasaanth/my-bio/static/js/main.8ac1b634.js",
-    "static/media/resume.svg": "/HariPrasaanth/my-bio/static/media/resume.e14140df07b335590ba31562dbefd1bb.svg",
-    "index.html": "/HariPrasaanth/my-bio/index.html",
-    "main.5e3bf947.css.map": "/HariPrasaanth/my-bio/static/css/main.5e3bf947.css.map",
-    "main.8ac1b634.js.map": "/HariPrasaanth/my-bio/static/js/main.8ac1b634.js.map"
+    "main.css": "/HariPrasaanth/mybio/static/css/main.5e3bf947.css",
+    "main.js": "/HariPrasaanth/mybio/static/js/main.649eece1.js",
+    "static/media/resume.svg": "/HariPrasaanth/mybio/static/media/resume.e14140df07b335590ba31562dbefd1bb.svg",
+    "index.html": "/HariPrasaanth/mybio/index.html",
+    "main.5e3bf947.css.map": "/HariPrasaanth/mybio/static/css/main.5e3bf947.css.map",
+    "main.649eece1.js.map": "/HariPrasaanth/mybio/static/js/main.649eece1.js.map"
   },
   "entrypoints": [
     "static/css/main.5e3bf947.css",
-    "static/js/main.8ac1b634.js"
+    "static/js/main.649eece1.js"
   ]
 }
