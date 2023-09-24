@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HariPrasaanth/mybio/static/css/main.5e3bf947.css",
-    "main.js": "/HariPrasaanth/mybio/static/js/main.d671d2ca.js",
+    "main.js": "/HariPrasaanth/mybio/static/js/main.afbb6cc6.js",
     "static/media/resume.svg": "/HariPrasaanth/mybio/static/media/resume.e14140df07b335590ba31562dbefd1bb.svg",
     "index.html": "/HariPrasaanth/mybio/index.html",
     "main.5e3bf947.css.map": "/HariPrasaanth/mybio/static/css/main.5e3bf947.css.map",
-    "main.d671d2ca.js.map": "/HariPrasaanth/mybio/static/js/main.d671d2ca.js.map"
+    "main.afbb6cc6.js.map": "/HariPrasaanth/mybio/static/js/main.afbb6cc6.js.map"
   },
   "entrypoints": [
     "static/css/main.5e3bf947.css",
-    "static/js/main.d671d2ca.js"
+    "static/js/main.afbb6cc6.js"
   ]
 }
