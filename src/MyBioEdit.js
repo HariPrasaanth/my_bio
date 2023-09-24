@@ -48,7 +48,7 @@ function MyBioEdit() {
   }
 
   function saveOperation() {
-    navigate("/mybio", {
+    navigate("/my_bio", {
       state: {
         aboutMe: about,
         blood: bloodGroup

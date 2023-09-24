@@ -12,7 +12,7 @@ function MyBio() {
   const location = useLocation();
 
   function navigateToEdit() {
-    navigate("/mybioedit");
+    navigate("/mybio_edit");
   }
 
   return (
@@ -110,7 +110,7 @@ function MyBio() {
                           >
                             <ArrowForwardIosIcon
                               fontSize="small"
-                              onClick={() => navigate("/mybioedit")}
+                              onClick={() => navigate("/mybio_edit")}
                             />
                           </Grid>
                         </Grid>

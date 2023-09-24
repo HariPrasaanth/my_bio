@@ -10,8 +10,8 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<MyBio />} />            
-          <Route path="/mybio" element={<MyBio />} />            
-          <Route path="/mybioedit" element={<MyBioEdit />} />          
+          <Route path="/my_bio" element={<MyBio />} />            
+          <Route path="/mybio_edit" element={<MyBioEdit />} />          
         </Routes>
       </BrowserRouter>
     </>
